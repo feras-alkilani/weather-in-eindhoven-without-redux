@@ -12,5 +12,8 @@
     "thunderstorm": "عاصفة رعدية",
     "snow": "ثلوج",
     "laight rain": "مطر خفيف",
-    "overcast clouds": "غيوم ملبّدة "
+    "overcast clouds": "غيوم ملبّدة ",
+    "light intensity shower rain": "مطر خفيف الشدة",
+    "thunderstorm with heavy rain": "عاصفة رعدية مع أمطار غزيرة",
+    "drizzle": "رذاذ"
 }
